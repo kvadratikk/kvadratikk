@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Uladzislava
 <img src="https://media0.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif?cid=ecf05e47l4u5f3b2vsarofyqlabhatz7bdhmmerz1y8v1poa&rid=giphy.gif&ct=g" height="25"/></h1>
 
-I am Front-end developer from Minsk, Belarus. For about a year, I studied web development on my own, taking various courses and practicing building applications. I am currently a student at the EPAM JS Lab.
+I am Front-end developer from Minsk, Belarus. I've been studying web development on my own for about a year, taking various courses and practicing building applications. I am currently a student at the EPAM JS Lab.
 
 ### ⌨ Pet-projects:
 
