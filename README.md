@@ -3,11 +3,16 @@
 
 I am Front-end developer from Minsk, Belarus. I've been studying web development on my own for about a year, taking various courses and practicing building applications. I am currently a student at the EPAM JS Lab.
 
-### ⌨ Pet-projects:
+### 💻 Pet-projects:
 
 |                                                                                             [Memories (in progress)]()                                                                                             |                                                    [Art Quiz](https://rolling-scopes-school.github.io/kvadratikk-JSFE2021Q3/art-quiz/)                                                     |                                                    [Momentum](https://rolling-scopes-school.github.io/kvadratikk-JSFE2021Q3/momentum/)                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://sun9-64.userapi.com/impf/kV0rcmDBsb8n3dVE4XgUjNpaDFfe08pfw3yJww/E_vzklgwvO8.jpg?size=1456x824&quality=96&sign=b1631c42bc5a9ac2525670c0f6fe5c84&type=album" width="150" style="display:block;"/> | <img src="https://sun9-84.userapi.com/impf/RU7DXaJj4AEFCL2oB-xND-QTQC2xq0GAWcVT7w/wYaLC-5ts8E.jpg?size=1557x952&quality=96&sign=b7abe6ea0c12f7dbcf03a4dcbab2d39f&type=album" width="150"/> | <img src="https://sun9-85.userapi.com/impf/1O0Ogahe9rY6N7jXC4lgXfJG71gNlNLQ7Sq0qg/LSQgQRnhywk.jpg?size=1862x965&quality=96&sign=da4793e5b28a419c13735ad3576b8640&type=album" width="150"/> |
+
+### 🎓 Certificates:
+
+- [JS/FE Pre-School](https://app.rs.school/certificate/wk2p6gwx)
+- [ST 2021 Q3](https://app.rs.school/certificate/i7osa4k0)
 
 ### ⚙️ Languages and Tools:
 
@@ -29,11 +34,11 @@ I am Front-end developer from Minsk, Belarus. I've been studying web development
 ![VSCcode](https://img.shields.io/badge/vscode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### 💻 Stats:
+### 📄 Stats:
 
 ![codewars](https://www.codewars.com/users/kvadratikk/badges/small)
 
-### ☎ Contacts:
+### 📫 Contacts:
 
 [![Email](https://img.shields.io/badge/adahiter@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:adahiter@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adahiter)
